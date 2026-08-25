@@ -1,0 +1,14 @@
+body {
+  background-color: lavender;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: rgb(255, 175, 236);
+  padding: 30px;
+}
+
+h1 {
+  color: #1565c0;
+}
+
+h2 {
+  color: violet;
+}
